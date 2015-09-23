@@ -1,2 +1,2 @@
 # newcorpbrasil
-Projeto Newcorp Brasil
+Projeto NewCorp Brasil
